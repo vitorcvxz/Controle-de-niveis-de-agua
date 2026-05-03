@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como uma atividade prática de lógica de programa
 Exibir mensagens de alerta com cores diferentes, de acordo com o nível de água do reservatório, tornando a visualização mais clara e intuitiva.
 
 *🎯 Funcionalidades*
+
 Utilização de listas para armazenar os níveis do reservatório
 Uso da biblioteca Colorama para estilização do terminal
 Definição de cores com base no nível da água
@@ -28,5 +29,3 @@ Biblioteca Colorama
 Antes de executar o projeto, instale a biblioteca necessária:
 
 pip install colorama
-
->>>>>>> ad6e2a9a17d686ea6504c9e930597c0eb586c5c2
