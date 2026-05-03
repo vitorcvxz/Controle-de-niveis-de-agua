@@ -1,4 +1,5 @@
 **💧 Controle de Níveis de Água**
+=======
 
 Este projeto foi desenvolvido como uma atividade prática de lógica de programação utilizando Python. O objetivo é simular um sistema de monitoramento de um reservatório de água no terminal.
 
@@ -27,6 +28,5 @@ Biblioteca Colorama
 Antes de executar o projeto, instale a biblioteca necessária:
 
 pip install colorama
-=======
 
 >>>>>>> ad6e2a9a17d686ea6504c9e930597c0eb586c5c2
