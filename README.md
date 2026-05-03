@@ -27,3 +27,6 @@ Biblioteca Colorama
 Antes de executar o projeto, instale a biblioteca necessária:
 
 pip install colorama
+=======
+
+>>>>>>> ad6e2a9a17d686ea6504c9e930597c0eb586c5c2
